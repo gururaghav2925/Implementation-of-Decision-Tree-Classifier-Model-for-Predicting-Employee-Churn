@@ -63,18 +63,35 @@ plt.show()
 ```
 
 ## Output:
+
 **data.head()**
+
 ![image](https://github.com/user-attachments/assets/ce1ab6ea-d94b-42a4-9e3a-e5fe87fbeb44)
+
+
 **data.info()**
+
+
 ![image](https://github.com/user-attachments/assets/4d075c90-30f2-4302-8997-2e1fabc0b50f)
 
+
+
 ![image](https://github.com/user-attachments/assets/f8fabb62-e86a-4539-8eae-ed1828b5a0e9)
+
+
 **Accuracy**
+
+
 ![image](https://github.com/user-attachments/assets/5af8344d-6740-41e1-a15e-48c05020da4e)
+
 **Predicited Output**
+
 ![image](https://github.com/user-attachments/assets/a7a2987a-35ac-4aee-b495-1c0ef822a7e8)
 
+
 **Plt.show()**
+
+
 ![image](https://github.com/user-attachments/assets/e85ccb9f-d6eb-43c0-bc34-5c778749e9cb)
 
 ## Result:
